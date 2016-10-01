@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo logkeys --keymap=/home/debian/checkin-bot/1204_lang.map --start --device=event1
