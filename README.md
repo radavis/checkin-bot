@@ -108,3 +108,8 @@ getting output
 ## logkeys
 
 clone, compile, and install [logkeys](https://github.com/kernc/logkeys)
+
+```
+$ sudo logkeys --keymap=/home/debian/checkin-bot/1204_lang.map --start --device=event1
+$ tail -f /var/log/logkeys.log
+```
